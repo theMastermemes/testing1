@@ -1,0 +1,113 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* Fantasy theme colors and styling */
+:root {
+  /* Primary colors - deep blue/purple fantasy theme */
+  --ifm-color-primary: #4a5568;
+  --ifm-color-primary-dark: #3d4757;
+  --ifm-color-primary-darker: #38414f;
+  --ifm-color-primary-darkest: #2d3748;
+  --ifm-color-primary-light: #576179;
+  --ifm-color-primary-lighter: #5c6682;
+  --ifm-color-primary-lightest: #6b7394;
+  
+  /* Fantasy accent colors */
+  --ifm-color-secondary: #d69e2e;
+  --ifm-color-success: #38a169;
+  --ifm-color-info: #3182ce;
+  --ifm-color-warning: #dd6b20;
+  --ifm-color-danger: #e53e3e;
+  
+  /* Typography */
+  --ifm-heading-font-family: "Georgia", "Times New Roman", serif;
+  --ifm-font-family-base: system-ui, -apple-system, "Segoe UI", "Roboto", sans-serif;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  
+  /* Background textures */
+  --ifm-background-color: #fafafa;
+  --ifm-hero-background-color: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+/* Dark mode fantasy theme */
+[data-theme='dark'] {
+  --ifm-color-primary: #9f7aea;
+  --ifm-color-primary-dark: #8b5fb3;
+  --ifm-color-primary-darker: #805aa9;
+  --ifm-color-primary-darkest: #6b4a91;
+  --ifm-color-primary-light: #b794f6;
+  --ifm-color-primary-lighter: #c299f6;
+  --ifm-color-primary-lightest: #d6a8f7;
+  
+  --ifm-background-color: #1a202c;
+  --ifm-hero-background-color: linear-gradient(135deg, #4a5568 0%, #2d3748 100%);
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Fantasy styling enhancements */
+.navbar__title {
+  font-family: var(--ifm-heading-font-family);
+  font-weight: bold;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.1);
+}
+
+.hero {
+  background: var(--ifm-hero-background-color);
+  color: white;
+  text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+}
+
+.hero__title {
+  font-family: var(--ifm-heading-font-family);
+  font-size: 3.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.hero__subtitle {
+  font-size: 1.5rem;
+  opacity: 0.9;
+  font-style: italic;
+}
+
+/* Content styling */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--ifm-heading-font-family);
+  color: var(--ifm-color-primary-darkest);
+}
+
+[data-theme='dark'] h1,
+[data-theme='dark'] h2,
+[data-theme='dark'] h3,
+[data-theme='dark'] h4,
+[data-theme='dark'] h5,
+[data-theme='dark'] h6 {
+  color: var(--ifm-color-primary-lightest);
+}
+
+/* Table styling for infoboxes */
+table {
+  border: 2px solid var(--ifm-color-primary);
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+table th {
+  background-color: var(--ifm-color-primary);
+  color: white;
+  font-weight: bold;
+}
+
+/* Link styling */
+a {
+  color: var(--ifm-color-primary-dark);
+  text-decoration-color: var(--ifm-color-secondary);
+}
+
+[data-theme='dark'] a {
+  color: var(--ifm-color-primary-light);
+}

@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-docusaurus:*)",
+      "Bash(xcopy:*)",
+      "Bash(robocopy:*)",
+      "Bash(move dnd-wiki* .)",
+      "Bash(rmdir:*)",
+      "Bash(powershell:*)",
+      "Bash(npm run start:*)",
+      "Bash(git init:*)",
+      "Bash(git remote add:*)",
+      "Bash(git branch:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
