@@ -9,11 +9,11 @@ Whether born to power or trained through dedication, adventurers follow various 
 
 ## Warrior Classes
 - **[Wardkeeper](/docs/classes/wardkeeper)** - Protectors who blend martial prowess with defensive magic
-- **[Voidblade](/docs/classes/voidblade)** - Shadow warriors who strike from darkness
+- **Voidblade** - Shadow warriors who strike from darkness
 
 ## Mystical Classes  
 - **[Lorekeepers](/docs/classes/lorekeepers)** - Scholar-mages who wield ancient knowledge
-- **[Spiritcaller](/docs/classes/spiritcaller)** - Those who commune with elemental and ancestral spirits
+- **Spiritcaller** - Those who commune with elemental and ancestral spirits
 
 ## Choosing a Path
 

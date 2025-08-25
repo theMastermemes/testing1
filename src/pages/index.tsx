@@ -15,7 +15,7 @@ function HomepageHeader() {
       <div className="container">
         <div className={styles.heroContent}>
           <div className={styles.sigil}>
-            <img src="/img/sigil.svg" alt="Codex Sigil" width="120" height="120" />
+            <img src="img/sigil.svg" alt="Codex Sigil" width="120" height="120" />
           </div>
           <div className={styles.heroText}>
             <Heading as="h1" className="hero__title">

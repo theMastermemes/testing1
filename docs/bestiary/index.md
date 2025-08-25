@@ -19,8 +19,8 @@ From the tiniest sprite to ancient dragons, the realms teem with life both munda
 
 ### By Habitat
 - **[Forest Dwellers](/docs/bestiary/forest-spirits)**: Creatures of wood and glade
-- **[Mountain Guardians](/docs/bestiary/stone-watchers)**: Beings of stone and peak
-- **[Shadow Realm Entities](/docs/bestiary/umbral-stalkers)**: Things that lurk in darkness
+- **Mountain Guardians**: Beings of stone and peak
+- **Shadow Realm Entities**: Things that lurk in darkness
 
 ### By Danger Level
 - **Harmless**: Creatures that pose no threat

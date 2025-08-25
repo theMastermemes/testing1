@@ -19,8 +19,8 @@ Magic permeates the realms, manifesting through various schools of study and nat
 
 ### Realm-Specific Arts
 - **[Ward Magic](/docs/spells/ward-magic)**: Protective barriers and shields
-- **[Shadow Weaving](/docs/spells/shadow-weaving)**: Manipulation of darkness and stealth
-- **[Forge Magic](/docs/spells/forge-magic)**: Enhancement of crafted items
+- **Shadow Weaving**: Manipulation of darkness and stealth
+- **Forge Magic**: Enhancement of crafted items
 
 ## Magic Sources
 

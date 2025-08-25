@@ -60,5 +60,5 @@ Wards can be overcome through:
 
 ## Related Magic
 
-- [Shadow Weaving](/docs/spells/shadow-weaving) - Sometimes used to hide or enhance wards
-- [Forge Magic](/docs/spells/forge-magic) - Can create permanent ward anchors
+- **Shadow Weaving** - Sometimes used to hide or enhance wards
+- **Forge Magic** - Can create permanent ward anchors

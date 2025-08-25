@@ -15,15 +15,15 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-username.github.io',
+  url: 'https://theMastermemes.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/dnd-wiki/',
+  baseUrl: '/testing1/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'theMastermemes', // Usually your GitHub org/user name.
+  projectName: 'testing1', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -44,7 +44,7 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: null,
+          editUrl: undefined,
         },
         blog: false,
         theme: {
@@ -100,7 +100,7 @@ const config: Config = {
           label: 'Deities',
         },
         {
-          href: 'https://github.com/your-username/dnd-wiki',
+          href: 'https://github.com/theMastermemes/testing1',
           label: 'GitHub',
           position: 'right',
         },
@@ -152,7 +152,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/your-username/dnd-wiki',
+              href: 'https://github.com/theMastermemes/testing1',
             },
           ],
         },
